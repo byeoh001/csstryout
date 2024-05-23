@@ -1,0 +1,21 @@
+#special {
+    color: blue;
+    font-size: 36px;
+}
+
+#no4{
+    background-color: greenyellow;
+    font-size: 24px;
+    font-weight: bold;
+}
+
+p{
+    background-color: pink;
+    font-family: Verdana, DejaVu Sans, sans-serif;
+}
+
+p.subsection{
+    background-color: pink;
+    font-family: Verdana, DejaVu Sans, sans-serif;
+    font-size: 24px;
+}
